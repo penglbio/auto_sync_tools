@@ -1,0 +1,2 @@
+0 1 * * sun /home/galaxy/rsync_data2server.sh
+0 1 * * sun /home/galaxy/rsync_home2server.sh
